@@ -2,7 +2,7 @@
 Computer Engineering** student**, software **developer**, passionate **person** who loves to learn.
 
 </br>
-<a href='https://www.linkedin.com/in/mehmethalis/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href='https://www.instagram.com/halisscicek/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp; <a href='mailto:mehmethaliscicek@outlook.com'> <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email_new-3-512.png" width="28"> </a>&nbsp;
+<a href='https://www.linkedin.com/in/mehmethalis/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href='https://www.instagram.com/halisscicek/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp; <a href='mailto:mehmethaliscicek@outlook.com'> <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email_new-3-512.png" width="30"> </a>&nbsp;
 
 
 
