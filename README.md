@@ -23,3 +23,9 @@ I have been dealing with software for about three years and I do freelance proje
 ----
 ###### Meaningful lines that impressed me years ago.
 > " It is not about having a specific set time; both personal and professional lives are 24/7. It is simply, more about making the right allocation to each one and recognizing that it is going to be different every single day. " - Ellen J. Kullman
+
+</br>
+
+<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=mehmethalis&exclude_repo=my-datascience-notes&layout=compact&theme=midnight-purple'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmethalis&exclude_repo=my-datascience-notes&layout=compact&theme=midnight-purple">
+</a>
