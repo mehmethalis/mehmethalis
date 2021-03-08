@@ -1,4 +1,4 @@
-## 👋 Hi, I am Mehmet Halis - [http://haliscicek.com](http://haliscicek.com)
+## 👋 Hi, I am Mehmet Halis - [haliscicek.com](http://haliscicek.com)
 Computer Engineering **student**, software **developer**, passionate **person** who loves to learn.
 
 </br>
