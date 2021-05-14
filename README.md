@@ -15,7 +15,6 @@ I have been dealing with software for about three years and I do freelance proje
 ----------
 ### 🖤 A few things I like
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚓ Traveling, especially long journeys </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎧 Undiscovered songs </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Psychology Science </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌊 Sound of the sea </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕ and of course coffee...
