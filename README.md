@@ -25,4 +25,4 @@ I have been dealing with software for about three years and I do freelance proje
 
 
 </br>
-<img width=650 src="https://wakatime.com/share/@mehmethalis/fe93a354-7637-4c02-be9f-85962728dd76.svg">
+<img width=600 src="https://wakatime.com/share/@mehmethalis/fe93a354-7637-4c02-be9f-85962728dd76.svg">
