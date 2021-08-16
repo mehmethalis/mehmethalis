@@ -25,8 +25,4 @@ I have been dealing with software for about three years and I do freelance proje
 
 
 </br>
-
-<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=mehmethalis&exclude_repo=my-datascience-notes&layout=compact&theme=midnight-purple'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmethalis&exclude_repo=my-datascience-notes&layout=compact&theme=midnight-purple">
-</a>
-
+<img width=650 src="https://wakatime.com/share/@mehmethalis/fe93a354-7637-4c02-be9f-85962728dd76.svg">
