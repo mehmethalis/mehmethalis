@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mehmet Halis</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Halis </h1>   
+
 <h3 align="center">Computer Engineering Student, Software Developer, Passionate person who loves to learn.</h3>
 
 - 📫 How to reach me **mehmethaliscicek@outlook.com**
 
 - 📄 Know about my experiences **[haliscicek.com/en](haliscicek.com/en)**
-
+- [![wakatime](https://wakatime.com/badge/user/24e62f1e-adfa-4787-b432-0f20b8e9ec34.svg)](https://wakatime.com/@24e62f1e-adfa-4787-b432-0f20b8e9ec34)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
