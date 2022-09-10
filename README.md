@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Halis </h1>   
 
-<h3 align="center">Computer Engineering Student, Software Developer, Passionate person who loves to learn.</h3>
+<h3 align="center">Computer Engineering Student, Passionate Software Developer who loves to learn.</h3>
 
 - 📫 How to reach me **mehmethaliscicek@outlook.com**
 
