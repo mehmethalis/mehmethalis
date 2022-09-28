@@ -4,10 +4,12 @@
 
 - 📫 How to reach me **mehmethaliscicek@outlook.com**
 
-- 📄 Know about my experiences **[haliscicek.com/en](haliscicek.com/en)**
+- 📄 Know about my experiences **[haliscicek.com/en](https://haliscicek.com/en)**
 - [![wakatime](https://wakatime.com/badge/user/24e62f1e-adfa-4787-b432-0f20b8e9ec34.svg)](https://wakatime.com/@24e62f1e-adfa-4787-b432-0f20b8e9ec34)
 
-<h3 align="left">Languages and Tools <sup>(actively use)</sup></h3>
+#### Languages and Tools <sup>(actively use)</sup>
+---
+ 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
