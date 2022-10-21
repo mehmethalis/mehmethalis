@@ -12,7 +12,7 @@
 
 | Project   | Frontend |  Backend |  Language |
 |----------:|---------:|---------:|----------:|
-| **[SellerQuick - Amazon Accounting Automation](https://sellerquick.com)** |  Next.js, React.js | Nest.js | TypeScript|
+|<a href="https://sellerquick.com" target="_blank"><b>SellerQuick - Amazon Accounting Automation</b></a> |  Next.js, React.js | Nest.js | TypeScript|
 
 #### Languages and Tools <sup>(actively use)</sup>
 ---
