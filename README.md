@@ -7,7 +7,7 @@
 - 📄 Know about my experiences **[haliscicek.com/en](https://haliscicek.com/en)**
 - [![wakatime](https://wakatime.com/badge/user/24e62f1e-adfa-4787-b432-0f20b8e9ec34.svg)](https://wakatime.com/@24e62f1e-adfa-4787-b432-0f20b8e9ec34)
 
-#### Projects <sup>(My own development)</sup>
+#### Projects <sup>(own)</sup>
 ---
 
 | Project   | Frontend |  Backend |  Language |
