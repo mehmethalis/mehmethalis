@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mehmet Halis </h1>   
+<h3 align="left">I'm Mehmet Halis also Software Developer who loves to learn.</h3>
 
-<h3 align="center">Computer Engineering Student, Passionate Software Developer who loves to learn.</h3>
+- 📫 How to reach me / **[mehmethaliscicek@outlook.com](mehmethaliscicek@outlook.com)**
 
-- 📫 How to reach me **mehmethaliscicek@outlook.com**
-
-- 📄 Know about my experiences **[haliscicek.com/en](https://haliscicek.com/en)**
+- 📄 More about me / **[haliscicek.com](https://haliscicek.com/)**
 
 #### Projects <sup>(own)</sup>
 ---
