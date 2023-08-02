@@ -1,6 +1,6 @@
 <h3 align="left">I'm Mehmet Halis also Software Developer who loves to learn.</h3>
 
-- 📫 How to reach me / **[mehmethaliscicek@outlook.com](mehmethaliscicek@outlook.com)**
+- 📫 How to reach me / **[hello@haliscicek.com](hello@haliscicek.com)**
 
 - 📄 More about me / **[haliscicek.com](https://haliscicek.com/)**
 
