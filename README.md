@@ -10,7 +10,7 @@
 | Project   | Frontend |  Backend |  Language |
 |----------:|---------:|---------:|----------:|
 |<a href="https://tailui.haliscicek.com/" target="_blank"><b> Tail UI - React UI Lib </b> <sup>(in-progress 2024)</sup></a> |  React / Tailwind | - | Typescript|
-|<a href="https://sellerquick-landing.vercel.app/" target="_blank"><b> SellerQuick - Amazon Accounting Automation </b> <sup>(2022)</sup></a> |  React / NextJs | Nodejs| Typescript|
+|<a href="https://sellerquick-landing.vercel.app/" target="_blank"><b> SellerQuick - Amazon Accounting Automation </b> <sup>(2022)</sup></a> |  React / NextJs | Nest.js| Typescript|
 |<a href="https://play.google.com/store/apps/details?id=com.halis.kitapgo" target="_blank"><b>KitapGo - Kitap Al ve Sat </b> <sup>(2020)</sup></a> |  Android Studio | Firebase| Java|
 
 
