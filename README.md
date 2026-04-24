@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Halis Çiçek</h1>
-<h3 align="center">Software Engineer building scalable and modern web applications</h3>
+<h3 align="center">Software Engineer building scalable and modern applications</h3>
 
 <p align="center">
   <a href="mailto:hello@haliscicek.com">hello@haliscicek.com</a> •
