@@ -12,7 +12,7 @@
 
 | Project | Year | Description | Frontend | Backend |
 |--------|------|------------|----------|---------|
-| **[Yoflow: AI Yoga Flow Builder](https://yoflows.com/)** | 2026 | AI-powered mobile app that creates personalized yoga flows and manages user subscriptions | React Native (Expo), TypeScript, Go (Fiber), PostgreSQL, RevenueCat| - |
+| **[Yoflow: AI Yoga Flow Builder](https://yoflows.com/)** | 2026 | AI-powered mobile app that creates personalized yoga flows and manages user subscriptions | React Native (Expo), TypeScript, RevenueCat| Go (Fiber), PostgreSQL|
 | **[Tail UI](https://tailui.haliscicek.com/)** | 2024 | Modern and reusable React UI library focused on scalability and DX | React, TailwindCSS, TypeScript | - |
 | **[SellerQuick](https://sellerquick-landing.vercel.app/)** | 2022 | Amazon accounting automation platform for marketplace sellers | Next.js, TypeScript | NestJS, Node.js |
 | **[KitapGo](https://play.google.com/store/apps/details?id=com.halis.kitapgo)** | 2020 | Mobile marketplace app for buying and selling books | Android (Java) | Spring Boot |
