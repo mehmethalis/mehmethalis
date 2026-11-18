@@ -12,6 +12,7 @@
 
 | Project | Year | Description | Frontend | Backend |
 |--------|------|------------|----------|---------|
+| **[VisioStyle: AI Wardrobe](https://visiostyles.com/)** | 2026 | Digital wardrobe app that lets users upload their clothes, pick a piece, and get AI outfit suggestions based on the occasion and weather. | React Native (Expo), TypeScript, RevenueCat | Go, PostgreSQL, Redis |
 | **[Yoflow: AI Yoga Flow Builder](https://yoflows.com/)** | 2026 | AI-powered mobile app that creates personalized yoga flows and manages user subscriptions | React Native (Expo), TypeScript, RevenueCat| Go (Fiber), PostgreSQL|
 | **[Tail UI](https://tailui.haliscicek.com/)** | 2024 | Modern and reusable React UI library focused on scalability and DX | React, TailwindCSS, TypeScript | - |
 | **[SellerQuick](https://sellerquick-landing.vercel.app/)** | 2022 | Amazon accounting automation platform for marketplace sellers | Next.js, TypeScript | NestJS, Node.js |
